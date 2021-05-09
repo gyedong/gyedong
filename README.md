@@ -14,19 +14,21 @@ Software Engineer of mobile app service company [BoreumdalLab](https://play.goog
 
 - working as a back-end server and android apps developer
 
+Software Engineer of [AIDKR](http://www.aidkr.com/)(2021-)
+
 ## Skill Sets
 
 - Java
 - Android
 - Firebase: Authentication, Analytics, Firestore, Realtime Database, Storage, Cloud Messaing
+- Javascript, Node.js
 - Google Cloud: SQL, App Engine, Cloud Storage
 - AWS: Amazon RDS, EC2, S3, AWS, Elastic Beanstalk
 - Python3
 - MySQL, MariaDB, MongoDB
 - HTML, CSS
 - Flask, Django
-- Swift
-- iOS
+- iOS, Swift
 
 ## Certificates
 
