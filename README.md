@@ -13,7 +13,7 @@ API 서버와 언어 학습 안드로이드 앱 개발.
 
 ## 기술
 
-| 분류  | 내용   | 
+| 분류  | 기술   | 
 |---|---|
 | 언어  | Java, Python, Javascript, Swift  | 
 | 백엔드 | Django, DRF, Flask, Node.js, Spring Boot  | 
