@@ -1,37 +1,27 @@
-# Jeon Gyedong
+# 전계동
 
-## Aspiring back-end and machine learning specialist
+## 소개
+새로운 것을 익히고, 만들어 보는 것을 좋아합니다. 알고 있는 것을 다른 사람들에게 공유하는 것을 좋아합니다.  
 
-- email: (jeongyedong@gmail.com)
-- github: (https://github.com/gyedong)
-- I’m currently learning python3, machine learning
-- Former developer of android apps and back-end server
+## 경력
 
+### [한국축산데이터](https://aidkr.com/), 소프트웨어 엔지니어, 2021-현재. 
+[팜스플랜](https://farmsplan.com/) 라이브 서비스의 API 서버 개발 및 AI 모델 서빙 담당
 
-## Experiences
+### 보름달랩, 소프트웨어 엔지니어, 2016-2020.
+API 서버와 언어 학습 안드로이드 앱 개발.
 
-Software Engineer of mobile app service company [BoreumdalLab](https://play.google.com/store/apps/dev?id=4668137433251011654)(2016-2020) Closed
+## 기술
+Languages: Java, Python, Javascript, Swift
+Back-end: Django, DRF, Flask, Node.js, Spring Boot
+Front-end: HTML, CSS, Bootstrap
+Mobile: Android, iOS
+Cloud: AWS, GCP
+Database: MySQL, MongoDB, Firebase Realtime Database, Cloud Firestore
 
-- working as a back-end server and android apps developer
+## 학력 
+산업공학 중퇴. 경제·사회학 전공.
 
-Software Engineer of [AIDKR](http://www.aidkr.com/)(2021-)
-
-## Skill Sets
-
-- Java
-- Android
-- Firebase: Authentication, Analytics, Firestore, Realtime Database, Storage, Cloud Messaing
-- Javascript, Node.js
-- Google Cloud: SQL, App Engine, Cloud Storage
-- AWS: Amazon RDS, EC2, S3, AWS, Elastic Beanstalk
-- Python3
-- MySQL, MariaDB, MongoDB
-- HTML, CSS
-- Flask, Django
-- iOS, Swift
-
-## Certificates
-
-- [Asia Economy Education Center](https://asia2edu.modoo.at/): Specialized Course for Developing Industrial Convergence Big Data Technology Based on PBT(2021. 1.)
-- [elice](https://elice.io): Artificial Intelligence-Based Data Scientist Training Course(2021. 2. ~ 3.)
-
+## 기타
+- [추천사](./documents/recommendations.md): 동료들의 평가
+- [블로그](https://taptorestart.tistory.com/)
