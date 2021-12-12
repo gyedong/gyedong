@@ -12,16 +12,21 @@
 API 서버와 언어 학습 안드로이드 앱 개발.
 
 ## 기술
-Languages: Java, Python, Javascript, Swift
-Back-end: Django, DRF, Flask, Node.js, Spring Boot
-Front-end: HTML, CSS, Bootstrap
-Mobile: Android, iOS
-Cloud: AWS, GCP
-Database: MySQL, MongoDB, Firebase Realtime Database, Cloud Firestore
+
+| 분류  | 내용   | 
+|---|---|
+| 언어  | Java, Python, Javascript, Swift  | 
+| 백엔드 | Django, DRF, Flask, Node.js, Spring Boot  | 
+| 데이터베이스  | MySQL, MongoDB, Firebase Realtime Database, Cloud Firestore  | 
+| 클라우드  | AWS, GCP  | 
+| 웹  | HTML, CSS, Javascript, Bootstrap  | 
+| 모바일  | Android, iOS  | 
 
 ## 학력 
 산업공학 중퇴. 경제·사회학 전공.
 
 ## 기타
-- [추천사](./documents/recommendations.md): 동료들의 평가
-- [블로그](https://taptorestart.tistory.com/)
+
+[추천사](./documents/recommendations.md): 동료들의 평가
+
+[블로그](https://taptorestart.tistory.com/)
