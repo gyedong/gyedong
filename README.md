@@ -27,6 +27,6 @@ API 서버와 언어 학습 안드로이드 앱 개발.
 
 ## 기타
 
-[추천사](./documents/recommendations.md): 동료들의 평가
+[추천서](./documents/recommendations.md): 동료들의 추천서
 
 [블로그](https://taptorestart.tistory.com/)
